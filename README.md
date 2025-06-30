@@ -28,7 +28,7 @@
 {
     "mcpServers": {
       "fund-tools": {
-        "url": "https://zmapi.wisdom-fintech.com/sse "
+        "url": "https://zmapi.wisdom-fintech.com/sse"
       }
     }
 }
