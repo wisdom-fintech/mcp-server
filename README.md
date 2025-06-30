@@ -21,7 +21,7 @@
 |---------|------|----------|
 | fund_basic_info | 基金基本信息，包括规模，标签，能力描述等 | 请查询xxx基金的基本情况 | 
 | get_fund_performance | 查询基金的整体绩效分析结果 | 请查询xxx基金的绩效表现数据 | 
-| fund_analysis_info | 基金的AI分析结果 | 请详细解读xxx基金， xxx基金怎么样？|
+| fund_analysis_info | 基金的分析结果,用AI进行深入解读 | 请详细解读xxx基金， xxx基金怎么样？|
 
 # 使用指南
 ```python
