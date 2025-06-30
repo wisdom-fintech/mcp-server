@@ -50,4 +50,4 @@
  A：所有支持MCP协议的AI应用、Agent平台都可以接入使用。比如Cursor、Tare、Cline、CherryStudio、Windsurf等，您也可以在火山引擎、扣子平台等AI应用使用。
 
 # 联系我们
-[至明科技](http://180.168.129.141:9191/coze/至明科技二维码.jpg)
+[至明科技](http://vip.wisdom-fintech.com/coze/zm_log.JPG)
