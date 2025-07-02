@@ -57,22 +57,22 @@ cursor、trae
 ## trae使用配置
 * 在trae 中打开"AI功能管理"
 * 选择"MCP",点击"手动添加"
-* 在cursor中配置
+* 在json中配置
 ```json
  {
   "mcpServers": {
-    "zm_mcp": {
-      "command": "npx",
- "args":[
-"-y",
-"https://zmapi.wisdom-fintech.com/sse"
-]
-      
+    "zm_mcp": {      
+      "url": "https://zmapi.wisdom-fintech.com/sse"
     }
   }
 }
 
 ```
+
+# 使用示例
+- xxx基金表现怎么样？
+- xxx基金最近涨的不错呀
+
 # 常见问答
 - Q：使用ZM-MCP服务是否需要付费？ 
  A：目前使用无需付费。 
