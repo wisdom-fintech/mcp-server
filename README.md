@@ -38,7 +38,7 @@
 # 可适配平台
 cursor、trae
 
-# cusor使用配置
+## cusor使用配置
 * 在cursor setting中打开"Tools & Integrations"窗口(cursor v1.*以上版本支持)
 * 单击 "New MCP Server"按钮，编辑mcp.json
 * 在cursor中配置
