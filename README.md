@@ -43,9 +43,14 @@ cursor、trae
 * 单击 "New MCP Server"按钮，编辑mcp.json
 * 在cursor中配置
 ```json
- "DataMcpServer":{
-   "url": "https://zmapi.wisdom-fintech.com/sse"  
- },
+ {
+  "mcpServers": {
+    "zm_mcp": {
+      "name": "fund_mcp",
+      "url": "https://zmapi.wisdom-fintech.com/sse"
+    }
+  }
+}
 
 ```
 
