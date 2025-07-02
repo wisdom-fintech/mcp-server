@@ -23,6 +23,12 @@
 | get_fund_performance | 查询基金的整体绩效分析结果 | 请查询xxx基金的绩效表现数据 | 
 | fund_analysis_info | 基金的分析结果,用AI进行深入解读 | 请详细解读xxx基金， xxx基金怎么样？|
 
+* fund_basic_info : 基金基本信息，包括规模，标签，能力描述等
+- 参数：
+    - fund_name:基金名称或者基金编码
+- 返回
+- dic:基金基本信息        
+
 # 使用指南
 ```python
 {
@@ -48,6 +54,9 @@
  3) 更多金融从业人员包含开发者、业务人员，可借助工具快速组装、搭建更多高质量的金融服务。 
 - Q：哪里可以用到ZM-MCP 工具？ 
  A：所有支持MCP协议的AI应用、Agent平台都可以接入使用。比如Cursor、Tare、Cline、CherryStudio、Windsurf等，您也可以在火山引擎、扣子平台等AI应用使用。
+
+# 版本
+当前版本：0.0.1
 
 # 联系我们
 ![至明科技](http://x2.wisdom-fintech.com/coze/zm_log.JPG)
