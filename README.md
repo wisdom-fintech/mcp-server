@@ -100,6 +100,4 @@ cursor、trae
 # 版本
 当前版本：0.0.1
 
-# 联系我们
-![至明科技](http://x2.wisdom-fintech.com/coze/zm_log.JPG)
 
